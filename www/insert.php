@@ -1,7 +1,7 @@
 <?php
-    $servername = "mysql";
+    $servername = "mariadb";
     $username = "root";
-    $password = "secret";
+    $password = "example";
     $dbname = "hello";
 
     // Create connection
